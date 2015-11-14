@@ -12,7 +12,7 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1318454078750" ID="ID_831350698" MODIFIED="1447491442835" POSITION="right" TEXT="&#x41e;&#x441;&#x43d;&#x43e;&#x432;&#x43d;&#x430;&#x44f; &#x43d;&#x430;&#x434;&#x43f;&#x438;&#x441;&#x44c;">
+<node CREATED="1318454078750" FOLDED="true" ID="ID_831350698" MODIFIED="1447494127325" POSITION="right" TEXT="&#x41e;&#x441;&#x43d;&#x43e;&#x432;&#x43d;&#x430;&#x44f; &#x43d;&#x430;&#x434;&#x43f;&#x438;&#x441;&#x44c;">
 <node CREATED="1318454907251" ID="ID_769724678" MODIFIED="1447491542980" TEXT="&#x41e;&#x431;&#x43e;&#x437;&#x43d;&#x430;&#x447;&#x435;&#x43d;&#x438;&#x435; &#x438;&#x437;&#x434;&#x435;&#x43b;&#x438;&#x44f;">
 <node CREATED="1447490859537" ID="ID_1165318614" MODIFIED="1447490872162" TEXT="&#x41e;&#x431;&#x43e;&#x437;&#x43d;&#x430;&#x447;&#x435;&#x43d;&#x438;&#x435; &#x43f;&#x43e; &#x43a;&#x43b;&#x430;&#x441;&#x441;&#x438;&#x444;&#x438;&#x43a;&#x430;&#x442;&#x43e;&#x440;&#x443;">
 <font ITALIC="true" NAME="SansSerif" SIZE="12"/>
@@ -33,8 +33,8 @@
 <font ITALIC="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1318454350678" FOLDED="true" ID="ID_449459689" MODIFIED="1447479274884" POSITION="right" TEXT="&#x422;&#x435;&#x43a;&#x441;&#x442;&#x43e;&#x432;&#x430;&#x44f; &#x447;&#x430;&#x441;&#x442;&#x44c;">
-<node CREATED="1318454098689" MODIFIED="1447459005467" TEXT="&#x422;&#x435;&#x445;&#x43d;&#x438;&#x447;&#x435;&#x441;&#x43a;&#x438;&#x435; &#x445;&#x430;&#x440;&#x430;&#x43a;&#x442;&#x435;&#x440;&#x438;&#x441;&#x442;&#x438;&#x43a;&#x438;"/>
+<node CREATED="1318454350678" FOLDED="true" ID="ID_449459689" MODIFIED="1447494126665" POSITION="right" TEXT="&#x422;&#x435;&#x43a;&#x441;&#x442;&#x43e;&#x432;&#x430;&#x44f; &#x447;&#x430;&#x441;&#x442;&#x44c;">
+<node CREATED="1318454098689" ID="ID_1832726665" MODIFIED="1447459005467" TEXT="&#x422;&#x435;&#x445;&#x43d;&#x438;&#x447;&#x435;&#x441;&#x43a;&#x438;&#x435; &#x445;&#x430;&#x440;&#x430;&#x43a;&#x442;&#x435;&#x440;&#x438;&#x441;&#x442;&#x438;&#x43a;&#x438;"/>
 <node CREATED="1318454366978" MODIFIED="1318454369847" TEXT="&#x422;&#x435;&#x445;&#x43d;&#x438;&#x447;&#x435;&#x441;&#x43a;&#x438;&#x435; &#x442;&#x440;&#x435;&#x431;&#x43e;&#x432;&#x430;&#x43d;&#x438;&#x44f;"/>
 </node>
 <node CREATED="1318454123391" ID="ID_266675802" MODIFIED="1318454130592" POSITION="right" TEXT="&#x413;&#x440;&#x430;&#x444;&#x438;&#x447;&#x435;&#x441;&#x43a;&#x430;&#x44f; &#x447;&#x430;&#x441;&#x442;&#x44c;"/>
