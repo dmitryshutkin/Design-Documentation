@@ -2,7 +2,7 @@
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1447470424227" ID="ID_1011019479" LINK="../&#x41a;&#x414;.mm" MODIFIED="1447488990597" TEXT="&#x421;&#x445;&#x435;&#x43c;&#x44b;">
 <font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1447471153765" FOLDED="true" MODIFIED="1447476235262" POSITION="right" TEXT="&#x42d;&#x43b;&#x435;&#x43a;&#x442;&#x440;&#x438;&#x447;&#x435;&#x441;&#x43a;&#x438;&#x435; (&#x42d;)">
+<node CREATED="1447471153765" FOLDED="true" ID="ID_1321621074" MODIFIED="1447490295225" POSITION="right" TEXT="&#x42d;&#x43b;&#x435;&#x43a;&#x442;&#x440;&#x438;&#x447;&#x435;&#x441;&#x43a;&#x438;&#x435; (&#x42d;)">
 <font ITALIC="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1447471477436" MODIFIED="1447476033153" TEXT="&#x421;&#x442;&#x440;&#x443;&#x43a;&#x442;&#x443;&#x440;&#x43d;&#x44b;&#x435; - 1">
 <font ITALIC="true" NAME="SansSerif" SIZE="12"/>
@@ -56,7 +56,7 @@
 <font ITALIC="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1447471172477" FOLDED="true" MODIFIED="1447476232423" POSITION="right" TEXT="&#x41f;&#x43d;&#x435;&#x432;&#x43c;&#x430;&#x442;&#x438;&#x447;&#x435;&#x441;&#x43a;&#x438;&#x435; (&#x41f;)">
+<node CREATED="1447471172477" FOLDED="true" ID="ID_1976638432" MODIFIED="1447476232423" POSITION="right" TEXT="&#x41f;&#x43d;&#x435;&#x432;&#x43c;&#x430;&#x442;&#x438;&#x447;&#x435;&#x441;&#x43a;&#x438;&#x435; (&#x41f;)">
 <font ITALIC="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1447471477436" MODIFIED="1447476033153" TEXT="&#x421;&#x442;&#x440;&#x443;&#x43a;&#x442;&#x443;&#x440;&#x43d;&#x44b;&#x435; - 1">
 <font ITALIC="true" NAME="SansSerif" SIZE="12"/>
