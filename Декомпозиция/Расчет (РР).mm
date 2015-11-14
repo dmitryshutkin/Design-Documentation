@@ -1,7 +1,7 @@
 <map version="0.9.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1318451996924" ID="ID_988475613" LINK="&#x41a;&#x414;.mm" MODIFIED="1447478659368" TEXT="&#x420;&#x430;&#x441;&#x447;&#x435;&#x442; (&#x420;&#x420;)">
-<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1318451996924" ID="ID_988475613" LINK="../&#x41a;&#x414;.mm" MODIFIED="1447488959687" TEXT="&#x420;&#x430;&#x441;&#x447;&#x435;&#x442; (&#x420;&#x420;)">
+<font BOLD="true" NAME="SansSerif" SIZE="11"/>
 <node CREATED="1318454078750" FOLDED="true" MODIFIED="1447467397785" POSITION="right" TEXT="&#x41e;&#x441;&#x43d;&#x43e;&#x432;&#x43d;&#x430;&#x44f; &#x43d;&#x430;&#x434;&#x43f;&#x438;&#x441;&#x44c;">
 <node CREATED="1318454907251" MODIFIED="1327925781155" TEXT="&#x41e;&#x431;&#x43e;&#x437;&#x43d;&#x430;&#x447;&#x435;&#x43d;&#x438;&#x435; &#x438;&#x437;&#x434;&#x435;&#x43b;&#x438;&#x44f;, &#x43e;&#x431;&#x43e;&#x437;&#x43d;&#x430;&#x447;&#x435;&#x43d;&#x438;&#x435; &#x440;&#x430;&#x441;&#x447;&#x435;&#x442;&#x430;, &#x43e;&#x431;&#x43e;&#x437;&#x43d;&#x430;&#x447;&#x435;&#x43d;&#x438;&#x435; &#x432;&#x438;&#x434;&#x430; &#x434;&#x43e;&#x43a;&#x443;&#x43c;&#x435;&#x43d;&#x442;&#x430; &quot;&#x420;&#x420;&quot;"/>
 <node CREATED="1318454917520" MODIFIED="1327925792594" TEXT="&#x41d;&#x430;&#x438;&#x43c;&#x435;&#x43d;&#x43e;&#x432;&#x430;&#x43d;&#x438;&#x435; &#x438;&#x437;&#x434;&#x435;&#x43b;&#x438;&#x44f;, &#x43d;&#x430;&#x438;&#x43c;&#x435;&#x43d;&#x43e;&#x432;&#x430;&#x43d;&#x438;&#x435; &#x43f;&#x43e;&#x44f;&#x441;&#x43d;&#x435;&#x43d;&#x438;&#x44f;, &#x43d;&#x430;&#x438;&#x43c;&#x435;&#x43d;&#x43e;&#x432;&#x430;&#x43d;&#x438;&#x435; &#x432;&#x438;&#x434;&#x430; &#x434;&#x43e;&#x43a;&#x443;&#x43c;&#x435;&#x43d;&#x442;&#x430; &quot;&#x420;&#x430;&#x441;&#x447;&#x435;&#x442;&quot;"/>
